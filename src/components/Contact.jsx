@@ -112,13 +112,14 @@ const Contact = () => {
               className='bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
             />
           </label>
-
+          <div className='flex justify-center'>
           <button
             type="submit"
             className='bg-tertiary py-3 px-8 outline-none w-fit text-white font-bold shadow-md shadow-primary rounded-xl'
           >
             Send
           </button>
+          </div>
         </form>
       </motion.div>
 
