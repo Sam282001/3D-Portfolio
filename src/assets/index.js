@@ -37,6 +37,7 @@ import tripguide from "./tripguide.png";
 import gamershub from "./ghub.png";
 import frs from './frs.png';
 import atm from './atm.png';
+import dev from './dev.png';
 
 export {
   logo,
@@ -70,4 +71,5 @@ export {
   gamershub,
   frs,
   atm,
+  dev,
 };
