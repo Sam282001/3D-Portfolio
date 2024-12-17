@@ -25,6 +25,7 @@ import {
     gamershub,
     frs,
     atm,
+    zclone,
 
   } from "../assets";
   
@@ -238,6 +239,27 @@ import {
       ],
       image: frs,
       source_code_link: "https://github.com/Sam282001/Food-Recommendation-System",
+    },
+    {
+      name: "Awwwards Site - Zentry Clone",
+      description:
+        "A reimagined clone of the Zentry platform, designed to captivate users with a blend of dynamic animations, creative transitions, and immersive video storytelling. It serves as a modern showcase of interactive web design and cutting-edge features.",
+      tags: [
+        {
+          name: "React",
+          color: "pink-text-gradient",
+        },
+        {
+          name: "GSAP",
+          color: "green-text-gradient",
+        },
+        {
+          name: "TailwindCSS",
+          color: "blue-text-gradient",
+        },
+      ],
+      image: zclone,
+      source_code_link: "https://github.com/Sam282001/awwwards-site-clone",
     },
     {
       name: "Console Based ATM Simulator",

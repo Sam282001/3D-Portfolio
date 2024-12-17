@@ -37,6 +37,7 @@ import tripguide from "./tripguide.png";
 import gamershub from "./ghub.png";
 import frs from './frs.png';
 import atm from './atm.png';
+import zclone from './znclone.png';
 import dev from './dev.png';
 
 export {
@@ -71,5 +72,6 @@ export {
   gamershub,
   frs,
   atm,
+  zclone,
   dev,
 };
