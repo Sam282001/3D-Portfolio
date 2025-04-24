@@ -20,12 +20,11 @@ import {
     rjinfotech,
     obdurate,
     istudio,
-    jobit,
-    tripguide,
     gamershub,
     frs,
     atm,
     zclone,
+    outlier,
 
   } from "../assets";
   
@@ -166,6 +165,19 @@ import {
         "Led and collaborated on various React projects, concentrating on the development of highly intuitive, responsive user interfaces to improve the overall user experience and functionality.",
         "Redesigned an existing project, enhancing its UI/UX and overall functionality.",
         "Managed and coordinated project teams, ensuring clear communication, efficient workflows, and timely delivery of all project milestones and key features.",
+      ],
+    },
+
+    {
+      title: "Freelance AI Model Trainer",
+      company_name: "Outlier",
+      icon: outlier,
+      iconBg: "#E6DEDD",
+      date: "Nov 2024 - Present",
+      points: [
+        "Engineered complex prompts to systematically challenge and assess LLM capabilities, identifying vulnerabilities and areas for improvement.",
+        "Conducted analysis of model responses, diagnosing inaccuracies, and implementing precise corrections to enhance performance.",
+        "Reviewed and evaluated LLM training tasks submitted by peers, ensuring adherence to quality standards and providing structured feedback with performance ratings.",
       ],
     },
   ];

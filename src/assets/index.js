@@ -26,6 +26,7 @@ import bootstrap from "./tech/bootstrap.png";
 // import starbucks from "./company/starbucks.png";
 // import tesla from "./company/tesla.png";
 
+import outlier from "./company/outlier.jpg";
 import visom from "./company/visom.png";
 import rjinfotech from "./company/rj-infotech.png";
 import obdurate from "./company/obdurate.png";
@@ -62,6 +63,7 @@ export {
   django,
   mysql,
   bootstrap,
+  outlier,
   visom,
   rjinfotech,
   obdurate,
